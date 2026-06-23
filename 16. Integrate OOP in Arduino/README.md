@@ -13,7 +13,6 @@
 - **16a & 16b** menunjukkan cara membuat class untuk komponen, menyembunyikan detail pin dan method.
 - **16c** tidak memiliki simulasi; folder berisi file header dan implementasi class yang sudah dipelajari.
 - **16d** adalah aplikasi library buatan sendiri ke program utama, bisa disimulasikan.
-- Pastikan setiap link **"Buka"** menuju proyek Tinkercad yang sudah *public*.
 
 ### 🖼️ Screenshot Rangkaian
 ![Rangkaian Class LED](./16A.png)

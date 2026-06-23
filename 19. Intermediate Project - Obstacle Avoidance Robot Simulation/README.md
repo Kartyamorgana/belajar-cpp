@@ -12,10 +12,8 @@
 ### 📝 Catatan
 - Proyek ini menggabungkan sensor ultrasonik, motor DC (driver L293D), dan LED.
 - Gunakan Serial Monitor untuk debugging saat implementasi.
-- Klik **"Buka"** untuk melihat simulasi langsung di Tinkercad (pastikan link sudah *public*).
+- Klik **"Buka"** untuk melihat simulasi langsung di Tinkercad.
+- Rangkaian 19A - 19D sama, hanya berbeda di kodenya saja.
 
 ### 🖼️ Screenshot Rangkaian
 ![Arsitektur Robot](./19A.png)
-![Implementasi Algoritma](./19B.png)
-![Debug Serial Monitor](./19C.png)
-![Robot dengan LED Indikator](./19D.png)

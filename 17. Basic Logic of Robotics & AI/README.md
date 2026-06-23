@@ -14,7 +14,7 @@
 - **17b** menerapkan logika percabangan langsung dari data sensor.
 - **17c** memperkenalkan state machine sebagai fondasi logika robot yang lebih kompleks.
 - **17d** adalah proyek mini yang menggabungkan semua konsep di modul ini.
-- Klik **"Buka"** untuk melihat simulasi di Tinkercad (pastikan link sudah *public*).
+- Klik **"Buka"** untuk melihat simulasi di Tinkercad.
 
 ### 🖼️ Screenshot Rangkaian
 ![Decision Making Sensor](./17B.png)

@@ -14,7 +14,7 @@
 ### 📝 Catatan
 - Proyek ini dikerjakan secara **bertahap dengan bimbingan mentor AI**.
 - Menggabungkan **OOP, array, serial debugging, dan state machine** — semua dari Modul 1–19.
-- Klik **"Buka"** untuk melihat simulasi langsung di Tinkercad (pastikan link sudah *public*).
+- Klik **"Buka"** untuk melihat simulasi langsung di Tinkercad.
 
 ### 🖼️ Screenshot Rangkaian
 ![Integrasi Final](./20%20(Smart%20Parking%20System).png)

@@ -12,7 +12,7 @@
 - **15a** fokus pada pengiriman data (monitoring sensor, debug).
 - **15b** mengajarkan cara membaca string/char dan parsing perintah sederhana.
 - **15c** adalah aplikasi langsung dari 15a & 15b untuk kontrol LED interaktif.
-- Semua simulasi bisa dibuka dengan klik **"Buka"** (pastikan link Tinkercad sudah *public*).
+- Semua simulasi bisa dibuka dengan klik **"Buka"**.
 
 ### 🖼️ Screenshot Rangkaian
 ![Rangkaian Serial Terima](./15B.png)

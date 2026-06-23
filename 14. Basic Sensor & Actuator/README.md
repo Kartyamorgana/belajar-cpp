@@ -14,7 +14,7 @@
 
 ### 📝 Catatan
 - **14a** hanya pengenalan cara kerja sensor; simulasi opsional untuk melihat perilaku sensor.
-- Klik **"Buka"** untuk langsung melihat simulasi rangkaian di Tinkercad (pastikan link sudah diatur ke *Anyone with the link can view*).
+- Klik **"Buka"** untuk langsung melihat simulasi rangkaian di Tinkercad.
 
 ### 🖼️ Screenshot Rangkaian
 ![Rangkaian Jarak Serial](./14B.png)
