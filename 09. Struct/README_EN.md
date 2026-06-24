@@ -2,7 +2,7 @@
 
 | Sub-chapter | Description | Code File | Tinkercad Simulation |
 |-------------|-------------|-----------|----------------------|
-| **9a** | Struct concept: wrapping multiple variables (ID card analogy) | – | – |
+| **9a** | Struct concept: wrapping multiple variables (ID card analogy) | [`9a.cpp`](./9a.cpp) | – |
 | **9b** | Defining a struct, creating variables, accessing members | [`9b.cpp`](./9b.cpp) | – |
 | **9c** | Array of structs – storing multiple sensor data | [`9c.cpp`](./9c.cpp) | – |
 | **9d** | Nested structs (struct within a struct) – overview | [`9d.cpp`](./9d.cpp) | – |

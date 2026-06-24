@@ -2,7 +2,7 @@
 
 | Sub-bab | Deskripsi | File Kode | Simulasi Tinkercad |
 |--------|-----------|-----------|---------------------|
-| **9a** | Konsep struct: membungkus beberapa variabel (analogi KTP) | – | – |
+| **9a** | Konsep struct: membungkus beberapa variabel (analogi KTP) | [`9a.cpp`](./9a.cpp) | – |
 | **9b** | Definisi struct, membuat variabel, mengakses anggota | [`9b.cpp`](./9b.cpp) | – |
 | **9c** | Array of struct – menyimpan banyak data sensor | [`9c.cpp`](./9c.cpp) | – |
 | **9d** | Nested struct (struct di dalam struct) – sekilas | [`9d.cpp`](./9d.cpp) | – |
